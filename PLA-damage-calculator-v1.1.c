@@ -228,7 +228,7 @@ float getBurnFrostbite(float BurnFrostbite) {
     scanf("%d", & BurnFrostbiteCheck);
     switch(BurnFrostbiteCheck) {
         case 1:
-        BurnFrostbite = 1.5;
+        BurnFrostbite = 0.5;
         break;
         case 0:
         break;
