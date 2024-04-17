@@ -30,7 +30,7 @@ float FinalDamageValues[16];
 
 //ask the user to input the values required for damage calculation.
 //functions for Attack, Defense, Level and Power require to manually type the value.
-//the remaining functions verify whether or not an additional modifier needs to be applied or not.
+//the remaining functions verify whether or not an additional modifier needs to be applied.
 
 float getAttack(float Attack) {
     printf("\nInsert the Attack stat: ");
